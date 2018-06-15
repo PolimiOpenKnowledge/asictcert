@@ -21,6 +21,6 @@ setup(
     packages=['asictapi'],
     dependency_links=[],
     install_requires=[
-        "django==1.8.15"
+        "django==1.8.18"
     ]
 )
