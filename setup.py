@@ -21,6 +21,6 @@ setup(
     packages=['asictapi'],
     dependency_links=[],
     install_requires=[
-        "django==1.11.28"
+        "django==2.2.24"
     ]
 )
